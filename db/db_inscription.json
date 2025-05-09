@@ -1,0 +1,53 @@
+{
+  "inscription": [
+    {
+      "nom": "Diop",
+      "prenom": "Awa",
+      "classe": "L1 MAE",
+      "matricule": "MAE001",
+      "email": "awa.diop@amour.com"
+    },
+    {
+      "nom": "Sow",
+      "prenom": "Mamadou",
+      "classe": "L2 MAE",
+      "matricule": "MAE045",
+      "email": "mamadou.sow@amour.com"
+    },
+    {
+      "nom": "Fall",
+      "prenom": "Fatou",
+      "classe": "L1 MAE",
+      "matricule": "MAE022",
+      "email": "fatou.fall@amour.com"
+    },
+    {
+      "nom": "Ba",
+      "prenom": "Ibrahima",
+      "classe": "L3 GRLS",
+      "matricule": "GRLS007",
+      "email": "ibrahim.ba@amour.com"
+    },
+    {
+      "nom": "Baila",
+      "prenom": "Ibrah",
+      "classe": "L3 GRLS",
+      "matricule": "GRLS006",
+      "email": "Ibrah.baila@amour.com"
+    },
+    {
+      "nom": "EYEMANDOKO EBOUEKE",
+      "prenom": "Amour Exauce Micheledith",
+      "classe": "L3 GRLS",
+      "matricule": "GRLS001",
+      "email": "amour.eyemandoko@amour.com"
+    },
+    {
+      "nom": "Ndiaye",
+      "prenom": "Aminata",
+      "classe": "L2 IAGE",
+      "matricule": "IAGE019",
+      "email": "aminata.ndiaye@amour.com"
+    }
+  ]
+}
